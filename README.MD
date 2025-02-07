@@ -12,6 +12,6 @@ Para ver las imagenes creadas:
 
 para ejecutar el contenedor:
 
-`docker run -p 8501:8501 idimagen`
+`docker run -p 8501:8501 --name nombre_contenedor idimagen`
 
 En el navegador escribir http://localhost:8501
